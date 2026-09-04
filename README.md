@@ -108,6 +108,7 @@ An AI-powered application that allows users to upload PDF documents and ask ques
 
 🔗 **Live Demo:**  
 https://chat-with-pdf-yq98.vercel.app/
+
 ---
 
 ### 💻 3. Developer Website
