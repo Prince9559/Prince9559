@@ -52,10 +52,10 @@ I'm a **Full Stack Developer** with **8 months of internship experience**, passi
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
 </p>
 
-**Git • GitHub • VS Code • npm**
+**Git • GitHub • VS Code • npm • postman**
 
 ---
 
