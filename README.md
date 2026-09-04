@@ -50,9 +50,9 @@ I'm a **Full Stack Developer** with **8 months of internship experience**, passi
 **MySQL • MongoDB**
 
 ### Tools
-
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,netbeans" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="48" height="48" />
 </p>
 
 **Git • GitHub • VS Code • npm • Postman • NetBeans**
