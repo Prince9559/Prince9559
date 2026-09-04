@@ -28,10 +28,10 @@ I'm a **Full Stack Developer** with **8 months of internship experience**, passi
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular" />
 </p>
 
-**HTML5 • CSS3 • JavaScript • React.js**
+**HTML5 • CSS3 • JavaScript • React.js • Angular.js**
 
 ### Backend
 
@@ -42,12 +42,11 @@ I'm a **Full Stack Developer** with **8 months of internship experience**, passi
 **Node.js • Express.js**
 
 ### Database
-
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,qdrant" />
 </p>
 
-**MySQL • MongoDB**
+**MySQL • MongoDB • Qdrant**
 
 ### Tools
 <p>
