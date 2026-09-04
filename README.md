@@ -100,15 +100,14 @@ https://fontend-peach.vercel.app/
 
 ### 📄 2. Chat With PDF
 
-An AI-powered web application that allows users to upload PDF documents and interact with their content.
+An AI-powered application that allows users to upload PDF documents and ask questions about their content using **LLMs, RAG and Vector Search**.
 
 **Tech Stack:**
 
-`React.js` `Node.js` `Express.js` `AI` `PDF Processing`
+`React.js` `Node.js` `Express.js` `LLM` `RAG` `Qdrant` `Vector Database` `PDF Processing`
 
 🔗 **Live Demo:**  
 https://chat-with-pdf-yq98.vercel.app/
-
 ---
 
 ### 💻 3. Developer Website
