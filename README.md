@@ -126,18 +126,18 @@ https://developer-pi-five.vercel.app/
 
 ## 🤖 Currently Learning
 
-### AI Engineering
+## 🤖 AI Engineering
 
-I'm currently learning **AI Engineering** and exploring how AI can be integrated with modern web applications.
+I'm currently expanding my knowledge in **AI Engineering** and building AI-powered applications using modern AI technologies.
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🐍 Python for AI
+- 🧠 Large Language Models (LLMs)
+- 🔎 RAG (Retrieval-Augmented Generation)
+- 🗄️ Qdrant Vector Database
 - ✨ Generative AI
 - 🔗 AI APIs & Integration
-- 📊 Data & AI Concepts
+- 🐍 Python for AI
+- 📊 Embeddings & Vector Search
 - 🚀 AI Application Development
-
 ---
 
 ## 🎯 Career Goal
