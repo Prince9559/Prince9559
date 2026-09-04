@@ -95,7 +95,7 @@ A modern e-commerce web application built for an online shopping experience.
 
 **Tech Stack:**
 
-`HTML5` `CSS3` `JavaScript` `React.js`
+`HTML5` `CSS3` `JavaScript` `React.js` `Node.js` `Express.js` `MySQL`
 
 🔗 **Live Demo:**  
 https://fontend-peach.vercel.app/
@@ -121,7 +121,7 @@ A modern and responsive developer-focused website.
 
 **Tech Stack:**
 
-`HTML5` `CSS3` `JavaScript` `React.js`
+`HTML5` `CSS3` `JavaScript` `React.js` `Node.js` `Express.js` `MySQL`
 
 🔗 **Live Demo:**  
 https://developer-pi-five.vercel.app/
