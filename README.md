@@ -24,7 +24,7 @@ I'm a **Full Stack Developer** with **8 months of internship experience**, passi
 - 🌱 Currently learning **AI Engineering**
 - 🎓 Currently pursuing **BCA**
 - 🔎 Looking for **Software Developer / Full Stack Developer** opportunities
-  
+
 ---
 
 ## 🛠️ Skills
