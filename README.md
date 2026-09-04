@@ -166,10 +166,10 @@ My goal is to become a skilled **Full Stack Developer** and grow into an **AI En
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prince9559&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Prince9559&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
