@@ -52,11 +52,10 @@ I'm a **Full Stack Developer** with **8 months of internship experience**, passi
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,netbeanse" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,netbeans" />
 </p>
 
-**Git • GitHub • VS Code • npm • postman • NetBeans**
-
+**Git • GitHub • VS Code • npm • Postman • NetBeans**
 ---
 
 ## 💼 Internship Experience
