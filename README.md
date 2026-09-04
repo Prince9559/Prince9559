@@ -46,7 +46,15 @@ I'm a **Full Stack Developer** with **8 months of internship experience**, passi
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,qdrant" />
 </p>
 
-**MySQL • MongoDB • Qdrant**
+**MySQL • MongoDB **
+
+### AI & Generative AI
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**LLM • RAG • Qdrant • Vector Database • Generative AI • AI APIs**
 
 ### Tools
 <p>
