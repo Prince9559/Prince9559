@@ -157,7 +157,7 @@ My goal is to become a skilled **Full Stack Developer** and grow into an **AI En
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince9559&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Prince9559&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
