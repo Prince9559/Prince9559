@@ -17,10 +17,14 @@ I'm a **Full Stack Developer** with **8 months of internship experience**, passi
 - ⚛️ Frontend Development with React.js
 - 🛠️ Backend Development with Express.js
 - 🗄️ Database: MySQL & MongoDB
+- 🤖 Working with **LLM (Large Language Models)**
+- 🔎 Working with **RAG (Retrieval-Augmented Generation)**
+- 🧠 Working with **Vector Database & Qdrant**
+- ✨ Exploring **Generative AI**
 - 🌱 Currently learning **AI Engineering**
 - 🎓 Currently pursuing **BCA**
 - 🔎 Looking for **Software Developer / Full Stack Developer** opportunities
-
+  
 ---
 
 ## 🛠️ Skills
