@@ -3,7 +3,7 @@
 ### 💻 Full Stack Developer | AI Engineer Learner
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;8+Months+Internship+Experience;React.js+%7C+Express.js;MySQL+%7C+MongoDB;Currently+Learning+AI+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;8+Months+Internship+Experience;React.js+%7C+Express.js;MySQL+%7C+MongoDB;LLM+%7C+RAG+%7C+Qdrant;Vector+Database+%7C+Generative+AI;Currently+Learning+AI+Engineering" />
 </p>
 
 ---
